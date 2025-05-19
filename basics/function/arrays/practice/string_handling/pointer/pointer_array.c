@@ -9,4 +9,5 @@ void main(){
          printf("\n%p",ptr[i]);
     }
     printf("\nfind address of arr%p",&ptr[0]);
+
 }
